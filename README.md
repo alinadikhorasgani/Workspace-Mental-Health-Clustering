@@ -58,4 +58,8 @@ mental_vs_physical: Do you feel that your employer takes mental health as seriou
 obs_consequence: Have you heard of or observed negative consequences for coworkers with mental health conditions in your workplace?
 
 comments: Any additional notes or comments
+
 However, I removed some variables from this dataset due to their high null values or  because of their little use. These variables include timestamps, comments, state, and country.
+
+# Final Results
+
