@@ -68,7 +68,12 @@ You can download this dataset from https://www.kaggle.com/code/aditimulye/mental
 ![KMeans-LLM](https://github.com/alinadikhorasgani/Workspace-Mental-Health-Clustering/assets/90984806/dd800e9f-3153-4bd4-bbd3-a72bcd3ae7a7)
 
 The provided code implements a clustering analysis using K-means and a combination of K-means with LLM (Large Language Model) to compare the results. The goal of this analysis is to identify distinct groups or clusters within a dataset.
-By employing a Large Language Model (LLM) as a preprocessing step before applying K-means clustering, we observed significant enhancements in the quality and interpretability of our results. The utilization of the LLM acted as a powerful data transformation tool, enabling us to extract more meaningful and context-rich information from the textual data. As a result, our subsequent K-means clustering yielded outcomes that were not only more distinct but also easier to interpret. The LLM's ability to capture intricate patterns, nuances, and semantics in the data improved the overall performance and clarity of our analysis, making it a valuable addition to our data processing pipeline."
+By employing a Large Language Model (LLM) as a preprocessing step before applying K-means clustering, we observed significant enhancements in the quality and interpretability of our results. The utilization of the LLM acted as a powerful data transformation tool, enabling us to extract more meaningful and context-rich information from the textual data. As a result, our subsequent K-means clustering yielded outcomes that were not only more distinct but also easier to interpret. The LLM's ability to capture intricate patterns, nuances, and semantics in the data improved the overall performance and clarity of our analysis, making it a valuable addition to our data processing pipeline.
+
+# References
+
+https://towardsdatascience.com/mastering-customer-segmentation-with-llm-3d9008235f41
+
 
 
 
