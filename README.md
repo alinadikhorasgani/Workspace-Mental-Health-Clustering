@@ -62,4 +62,10 @@ comments: Any additional notes or comments
 However, I removed some variables from this dataset due to their high null values or  because of their little use. These variables include timestamps, comments, state, and country.
 
 # Final Results
+![kmeans](https://github.com/alinadikhorasgani/Workspace-Mental-Health-Clustering/assets/90984806/7c261620-ebef-4354-9538-9070ba5717a6)
+![KMeans-LLM](https://github.com/alinadikhorasgani/Workspace-Mental-Health-Clustering/assets/90984806/dd800e9f-3153-4bd4-bbd3-a72bcd3ae7a7)
+As you see when we implemented LLM  before Kmeans, our results became more clear and obvious.
+
+
+
 
