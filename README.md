@@ -1,7 +1,7 @@
 # Workspace-Mental-Health-Clustering
 In this repository, I execute K-means and a combination of K-means and LLM and compare the results.
 # Dataset
-This dataset is from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. You are also encouraged to analyze data from the ongoing 2016 survey found here.
+This dataset is from a 2014 survey that measures attitudes towards mental health and the frequency of mental health disorders in the tech workplace. You are also encouraged to analyze data from the ongoing 2016 survey found here.
 
 Content
 This dataset contains the following data:
@@ -59,7 +59,9 @@ obs_consequence: Have you heard of or observed negative consequences for coworke
 
 comments: Any additional notes or comments
 
-However, I removed some variables from this dataset due to their high null values or  because of their little use. These variables include timestamps, comments, state, and country.
+However, I removed some variables from this dataset due to their high null values or because of their little use. These variables include timestamps, comments, state, and country.
+
+You can download this dataset from https://www.kaggle.com/code/aditimulye/mental-health-at-workplace/input
 
 # Final Results
 ![kmeans](https://github.com/alinadikhorasgani/Workspace-Mental-Health-Clustering/assets/90984806/7c261620-ebef-4354-9538-9070ba5717a6)
